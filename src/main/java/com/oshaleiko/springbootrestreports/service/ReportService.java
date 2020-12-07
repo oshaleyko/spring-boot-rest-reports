@@ -16,8 +16,7 @@ public class ReportService {
 
     @Autowired
     private ReportRepository reportRepository;
-
-
+    
     public Report addReport(Report report) {
         reportRepository.save(report);
         return report;

@@ -1,7 +1,6 @@
 package com.oshaleiko.springbootrestreports.api;
 
 import com.oshaleiko.springbootrestreports.domain.Report;
-
 import com.oshaleiko.springbootrestreports.service.ReportService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

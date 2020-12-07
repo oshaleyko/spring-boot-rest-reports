@@ -1,6 +1,5 @@
 package com.oshaleiko.springbootrestreports.repository;
 
-
 import com.oshaleiko.springbootrestreports.domain.Report;
 import org.junit.Test;
 import org.junit.runner.RunWith;
