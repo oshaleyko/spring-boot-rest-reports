@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.com/oshaleyko/spring-boot-rest-reports.svg?branch=master)](https://travis-ci.com/oshaleyko/spring-boot-rest-reports)
 
 # About
 
