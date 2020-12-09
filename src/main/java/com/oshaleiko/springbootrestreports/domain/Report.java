@@ -21,18 +21,18 @@ public class Report {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    public Long id;
+    private Long id;
 
     @NotNull(message = "Please, provide name for your report.")
-    public String name;
+    private String name;
 
     @NotNull(message = "Please, provide description for your report.")
-    public String description;
+    private String description;
 
     @NotNull
     @Temporal(TemporalType.TIMESTAMP)
     @LastModifiedDate
-    public Date updatedTimeStamp;
+    private Date updatedTimeStamp;
 
     public Report() {
     }
